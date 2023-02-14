@@ -21,8 +21,8 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Solution URL: [Github repo](https://github.com/itsmemohit/fm-NFT-preview-card-component)
-- Live Site URL: [Netlify live site url](https://jade-begonia-55e575.netlify.app/)
+- Solution URL: [Github repo](https://github.com/itsmemohit/fm-3column-preview-card)
+- Live Site URL: [Netlify live site url](https://rad-brigadeiros-c3414f.netlify.app/)
 
 ## My process
 
